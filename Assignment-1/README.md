@@ -23,7 +23,7 @@ Output is maximized value of Z and tables after every iteration-
 
 ### In this case the output looks like-
 
-![Alt text]('https://github.com/ShahuPatil07/Attacking-LLMs-with-Projected-Gradient-Descent/blob/main/Assignment-1/Screenshot%20(87).png')
+![Alt text](https://github.com/ShahuPatil07/Attacking-LLMs-with-Projected-Gradient-Descent/blob/main/Assignment-1/Screenshot%20(87).png)
 
 
 * To run the python script, just have Pandas and numpy installed in your local IDE.
