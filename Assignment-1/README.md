@@ -23,7 +23,7 @@ Output is maximized value of Z and tables after every iteration-
 
 ### In this case the output looks like-
 
-![Alt text](./Screenshot (87).png)
+![Alt text](/Screenshot (87).png)
 
 
 * To run the python script, just have Pandas and numpy installed in your local IDE.
