@@ -22,19 +22,8 @@ please enter constraint 3 coefficients seperated by spaces 2 -1 -1 8
 Output is maximized value of Z and tables after every iteration-
 
 ### In this case the output looks like-
-*    Cb  Xb  x1  x2  x3  x4  x5  x6   b  ratio
-* 0   0   4   1   1   1   1   0   0   9      0
-* 1   0   5   2   3   5   0   1   0  30      0
-* 2   0   6   2  -1  -1   0   0   1   8      0
-*    Cb  Xb    x1    x2   x3  x4     x5  x6     b  ratio
-* 0   0   4  0.60  0.40  0.0   1  0.000   0  9.00      9
-* 1   5   3  0.40  0.60  1.0   0  0.200   0  6.00      6
-* 2   0   6  2.08 -0.88 -0.8   0  0.032   1  8.96     -8
-*    Cb  Xb   x1        x2        x3  x4        x5        x6         b  \
-* 0   0   4  0.0  0.400000  0.000000   1  0.000000  0.000000  9.000000   
-* 1   5   3  0.0  0.600000  1.000000   0  0.200000  0.000000  6.000000   
-* 2   3   1  1.0 -0.423077 -0.384615   0  0.015385  0.480769  4.307692 
-* 
-* Maximum value of Input expresion is 34
+
+![Alt text](./example.jpg)
+
 
 * To run the python script, just have Pandas and numpy installed in your local IDE.
